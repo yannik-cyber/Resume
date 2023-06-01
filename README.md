@@ -1,59 +1,56 @@
 # Yannik Hubrich
-## Data Scientist
 
-I am dedicated to becoming an enabling leader who leverages Data Science as a powerful tool for decision-making and problem-solving. My goal is to empower individuals by promoting a data-driven decision-making process and effectively tackling challenges by utilizing data in the correct way. Additionally, I strongly advocate for collaboration over competition. While I like to utilize a wide range of tools and methods to achieve success in my projects, Python, SQL, and Microsoft PowerBi are among my primary tools of choice.
+## Role: Data Scientist
+* Contact: yannik.layer@gmail.com
+* Location: Mainz
+
+## Profile
+Dedicated to leveraging Data Science for strategic decision-making and problem-solving. Strives to promote a data-driven decision-making process, empower individuals, and tackle challenges effectively. A strong advocate for collaboration, with proficiency in Python, SQL, and Microsoft PowerBi.
 
 ## Experience
 
-### Data Scientist – Oct 2022 - Present
-**gridscale GmbH / Cologne**
-Conceptualized and implemented a completely automated Managing KPI Dashboard
-- Conducted revenue prediction analysis to drive business insights.
-- Automated the sales process, enabling the Sales Team to focus on critical tasks.
-- Conducted customer clustering analysis for targeted marketing strategies.
+### Data Scientist 
+**gridscale GmbH, Cologne** | Oct 2022 - Present
+- Developed a fully automated KPI Dashboard.
+- Conducted revenue prediction analysis to inform business strategies.
+- Automated sales processes to prioritize critical tasks.
+- Implemented customer clustering analysis for targeted marketing strategies.
 
-### Dual Studies Data Scientist – Oct 2019 - Sep 2022
-**gridscale GmbH / Cologne**
-- As to see in the section Education
+### Dual Studies Data Scientist 
+**gridscale GmbH, Cologne** | Oct 2019 - Sep 2022
+- More details in the Education section.
 
-### Working Student Online Marketing– Jan 2018 - Sep 2019
-**gridscale GmbH / Cologne**
-Measured the success of online marketing campaigns.
-- Conducted SEO activities to improve website visibility.
-- Performed marketing data analytics for data-driven insights.
+### Working Student Online Marketing 
+**gridscale GmbH, Cologne** | Jan 2018 - Sep 2019
+- Monitored online marketing campaign success.
+- Conducted SEO activities for enhanced website visibility.
+- Leveraged marketing data analytics for informed insights.
 
-### Trainee Online Marketing– Sep 2018 - Oct 2017
-**ON Development GmbH / Cologne**
-Developed and implemented SEO strategies.
-- Conducted competition research for effective marketing campaigns.
-- Produced training documents, documentation, and protocols.
+### Trainee Online Marketing 
+**ON Development GmbH, Cologne** | Sep 2018 - Oct 2017
+- Formulated and implemented SEO strategies.
+- Conducted competitive research for effective marketing strategies.
+- Created training documents, documentation, and protocols.
 
-### Working Student WDR MOMA – Jan 2016 - Jul 2017
-**West Deutscher Rundfunk / Cologne**
-Assisted with various tasks for the Morning Magazin, including:
-- Managing and taking care of guests 
-- Organization of Catering
-- Post-production of the show
+### Working Student WDR MOMA 
+**West Deutscher Rundfunk, Cologne** | Jan 2016 - Jul 2017
+- Assisted with tasks for the Morning Magazin, including guest management, catering organization, and post-production.
 
 ## Education
 
-### Dual Bachelor of Science of Data Science – Oct 2019 - Sep 2022
-**gridscale GmbH and DHBW Mannheim**
-- GPA 3.2
-- Projects:
-  - Discord Weather Chat Bot
-  - Automated and Scalable indoor plant watering system
-  - Drunken Face Recognition App
-  - Big Data Movie Recommendation App 
+### Dual Bachelor of Science of Data Science 
+**gridscale GmbH and DHBW Mannheim** | Oct 2019 - Sep 2022
+- GPA: 3.2
+- Projects include a Discord Weather Chat Bot, an automated and scalable indoor plant watering system, a Drunken Face Recognition App, and a Big Data Movie Recommendation App.
 
-### Studies (Ba) of Media and Culture Science and Informatics – Oct 2015 - Oct 2019
-**University to Cologne - canceled because of change of Career**
-- no GPA, bc I dropped out
+### Studies (Ba) of Media and Culture Science and Informatics 
+**University to Cologne** | Oct 2015 - Oct 2019 (Canceled due to career change)
+- No GPA, as I dropped out.
 
-### High-school diploma – Jun 2014
-**Humpis School Ravensburg**
+### High-school diploma 
+**Humpis School Ravensburg** | Jun 2014
 - Business high school (Wirtschaftsgymnasium)
-- Grade 2,3
+- Grade: 2,3
 
 ## Skills
 - Data Science
@@ -68,6 +65,6 @@ Assisted with various tasks for the Morning Magazin, including:
 - Project Management
 
 ## Hobbies
-- Cooking of the world's most famous kitchens
-- Traveling to get out of tunnel vision, get new impressions and reboot the brain for new ideas and perspectives 
-- Deep and Shallow Machine Learning for different kind of Projects currently for Stock Price Prediction
+- **Cooking** recipes from the world's most famous kitchens.
+- **Traveling** to break tunnel vision, gain new impressions, and stimulate new ideas.
+- **Working** on Machine Learning projects, currently focused on Stock Price Prediction.
