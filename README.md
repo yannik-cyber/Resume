@@ -1,7 +1,6 @@
 # Yannik Hubrich
 ## Data Scientist
 
-## Profile
 I am dedicated to becoming an enabling leader who leverages Data Science as a powerful tool for decision-making and problem-solving. My goal is to empower individuals by promoting a data-driven decision-making process and effectively tackling challenges by utilizing data in the correct way. Additionally, I strongly advocate for collaboration over competition. While I like to utilize a wide range of tools and methods to achieve success in my projects, Python, SQL, and Microsoft PowerBi are among my primary tools of choice.
 
 ## Experience
