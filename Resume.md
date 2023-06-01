@@ -65,6 +65,6 @@ Dedicated to leveraging Data Science for strategic decision-making and problem-s
 - Project Management
 
 ## Hobbies
-- Cooking recipes from the world's most famous kitchens.
-- Traveling to break tunnel vision, gain new impressions, and stimulate new ideas.
-- Working on Machine Learning projects, currently focused on Stock Price Prediction.
+- **Cooking** recipes from the world's most famous kitchens.
+- **Traveling** to break tunnel vision, gain new impressions, and stimulate new ideas.
+- **Working** on Machine Learning projects, currently focused on Stock Price Prediction.
