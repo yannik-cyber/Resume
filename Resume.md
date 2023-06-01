@@ -45,7 +45,7 @@ Dedicated to leveraging Data Science for strategic decision-making and problem-s
 
 ### Studies (Ba) of Media and Culture Science and Informatics 
 **University to Cologne** | Oct 2015 - Oct 2019 (Canceled due to career change)
-- No GPA, as the course was canceled.
+- No GPA, as I dropped out.
 
 ### High-school diploma 
 **Humpis School Ravensburg** | Jun 2014
