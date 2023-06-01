@@ -7,7 +7,7 @@ I am dedicated to becoming an enabling leader who leverages Data Science as a po
 
 ### Data Scientist – Oct 2022 - Present
 **gridscale GmbH / Cologne**
-- Conceptualized and implemented a completely automated Managing KPI Dashboard
+Conceptualized and implemented a completely automated Managing KPI Dashboard
 - Conducted revenue prediction analysis to drive business insights.
 - Automated the sales process, enabling the Sales Team to focus on critical tasks.
 - Conducted customer clustering analysis for targeted marketing strategies.
@@ -18,22 +18,22 @@ I am dedicated to becoming an enabling leader who leverages Data Science as a po
 
 ### Working Student Online Marketing– Jan 2018 - Sep 2019
 **gridscale GmbH / Cologne**
-- Measured the success of online marketing campaigns.
+Measured the success of online marketing campaigns.
 - Conducted SEO activities to improve website visibility.
 - Performed marketing data analytics for data-driven insights.
 
 ### Trainee Online Marketing– Sep 2018 - Oct 2017
 **ON Development GmbH / Cologne**
-- Developed and implemented SEO strategies.
+Developed and implemented SEO strategies.
 - Conducted competition research for effective marketing campaigns.
 - Produced training documents, documentation, and protocols.
 
 ### Working Student WDR MOMA – Jan 2016 - Jul 2017
 **West Deutscher Rundfunk / Cologne**
-- Assisted with various tasks for the Morning Magazin, including:
-  - Managing and taking care of guests 
-  - Organization of Catering
-  - Post-production of the show
+Assisted with various tasks for the Morning Magazin, including:
+- Managing and taking care of guests 
+- Organization of Catering
+- Post-production of the show
 
 ## Education
 
@@ -48,7 +48,7 @@ I am dedicated to becoming an enabling leader who leverages Data Science as a po
 
 ### Studies (Ba) of Media and Culture Science and Informatics – Oct 2015 - Oct 2019
 **University to Cologne - canceled because of change of Career**
-- no GPA, bc it was canceled
+- no GPA, bc I dropped out
 
 ### High-school diploma – Jun 2014
 **Humpis School Ravensburg**
